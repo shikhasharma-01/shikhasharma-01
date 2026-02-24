@@ -1,16 +1,30 @@
-## Hi there 👋
+Hi, I’m Shikha 
 
-<!--
-**shikhasharma-01/shikhasharma-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently pursuing my MS in Information Systems at Pace University in New York City.
 
-Here are some ideas to get you started:
+My work focuses on data analytics — exploring datasets, identifying trends, and building visualizations to better understand business performance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Projects:-
+
+# NYC Tips Analytics
+A Python-based data analytics project analyzing restaurant tipping behavior across days of the week and NYC boroughs.
+
+In this project, I:
+- Calculated revenue and average tip percentages
+- Explored weekday vs. weekend tipping trends
+- Compared borough-level tipping behavior
+- Created visualizations using pandas and matplotlib
+
+Project link:  
+https://github.com/shikhasharma-01/nyc-tips-analytics
+
+---
+
+# Tools
+Python | SQL | pandas | matplotlib | Power BI | Excel
+
+---
+
+# Connect
+LinkedIn: https://www.linkedin.com/in/shikhasharma2204/  
+Email: shikhasharma0220@gmail.com
