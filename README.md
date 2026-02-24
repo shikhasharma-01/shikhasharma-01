@@ -1,4 +1,4 @@
-Hi, I’m Shikha 
+Hi, I’m Shikha Sharma
 
 I’m currently pursuing my MS in Information Systems at Pace University in New York City.
 
