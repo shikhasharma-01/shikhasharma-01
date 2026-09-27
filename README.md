@@ -1,29 +1,56 @@
-Hi, I'm Shikha Sharma
+# Hi, I'm Shikha Sharma
 
-I'm a business and data analyst with over 5 years in financial services, most of it at Deutsche Bank in capital markets.
+**Business and data analyst | 5+ years in financial services**
 
-Most of my work has been about making sure data is right before anyone uses it. Reconciliation, validation checks, reporting automation with SQL and Python, and dashboards for the people who need to make a decision quickly.
+Most of my career has been at Deutsche Bank in capital markets. My work is
+about making sure data is right before anyone uses it: reconciliation,
+validation checks, reporting automation with SQL and Python, and dashboards
+for people who need to make a decision quickly.
 
-I finished my MS in Information Systems (Data Analytics) at Pace University in May 2026.
+MS in Information Systems (Data Analytics), Pace University, May 2026.
 
-# Projects
+---
 
-* NYC Tips Analytics**
-Python and pandas project looking at restaurant tipping across days of the week and across NYC boroughs. Revenue, average tip percentages, weekday versus weekend, and charts with matplotlib.
-https://github.com/shikhasharma-01/nyc-tips-analytics
+## Projects
 
-* AI Crisis Decision Room (IBM SkillsBuild AI Challenge)
-A team project. An AI system that pulls in live emergency data, works out what is likely to happen next, and sends high risk alerts to Slack. I worked on the part that coordinates the other agents and keeps every step traceable.
-Built with IBM watsonx Orchestrate, LangGraph, watsonx.ai, Streamlit and live public APIs.
+### NYC Tips Analytics
+Python and pandas project on restaurant tipping across days of the week and
+NYC boroughs. Revenue, average tip percentages, weekday versus weekend, and
+charts with matplotlib.
 
-* AI misuse in financial services (MS research)
-I surveyed 80 people in finance and analytics on how they use AI at work. Most of the risk came from behaviour, not the technology. I built a scoring model that turns behaviours into a risk level, with a different response for each level.
+`Python` `pandas` `matplotlib`
 
-# Tools
+[View the project →](https://github.com/shikhasharma-01/nyc-tips-analytics)
 
-Python, pandas, SQL (Oracle, SQL Server), Power BI, Tableau, Excel
+### AI Crisis Decision Room
+Team project for the IBM SkillsBuild AI Challenge. An AI system that pulls in
+live emergency data, works out what is likely to happen next, and sends high
+risk alerts to Slack. I worked on the part that coordinates the other agents
+and keeps every step traceable.
 
-# Contact
+`IBM watsonx Orchestrate` `LangGraph` `watsonx.ai` `Streamlit` `live APIs`
 
-LinkedIn: https://www.linkedin.com/in/shikhasharma2204/
-Email: shikhasharmausa@gmail.com
+### AI Misuse in Financial Services
+My MS research. I surveyed 80 people in finance and analytics on how they use
+AI at work. Most of the risk came from behaviour, not the technology. I built
+a scoring model that turns those behaviours into a risk level, with a
+different response for each level.
+
+`Survey research` `Risk scoring` `AI governance`
+
+---
+
+## Tools
+
+**Languages and data:** Python, pandas, SQL (Oracle, SQL Server)
+**Reporting:** Power BI, Tableau, Excel
+**Ways of working:** Data validation, reconciliation, root cause analysis,
+reporting automation
+
+---
+
+## Contact
+
+📍 New York / New Jersey
+💼 [LinkedIn](https://www.linkedin.com/in/shikhasharma2204/)
+✉️ shikhasharmausa@gmail.com
