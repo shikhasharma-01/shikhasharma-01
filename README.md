@@ -1,6 +1,6 @@
 Hi, I’m Shikha Sharma
 
-I’m currently pursuing my MS in Information Systems at Pace University in New York City.
+I finished my MS in Information Systems (Data Analytics) at Pace University in May 2026.
 
 My work focuses on data analytics — exploring datasets, identifying trends, and building visualizations to better understand business performance.
 
